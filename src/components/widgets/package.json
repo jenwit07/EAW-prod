@@ -1,0 +1,6 @@
+{
+  "name": "AnalysisWidgets",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AnalysisWidgets.js"
+}
